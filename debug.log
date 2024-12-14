@@ -1,0 +1,36 @@
+INFO 2024-12-14 17:39:14,642 autoreload Watching for file changes with StatReloader
+WARNING 2024-12-14 17:39:35,309 log Not Found: /
+WARNING 2024-12-14 17:39:35,309 basehttp "GET / HTTP/1.1" 404 2947
+WARNING 2024-12-14 17:39:35,483 log Not Found: /favicon.ico
+WARNING 2024-12-14 17:39:35,484 basehttp "GET /favicon.ico HTTP/1.1" 404 2998
+INFO 2024-12-14 17:39:38,465 basehttp "GET /login/ HTTP/1.1" 302 0
+INFO 2024-12-14 17:39:39,504 basehttp "GET /login/ HTTP/1.1" 302 0
+INFO 2024-12-14 17:40:19,690 basehttp "POST /api/v1/auth/google/ HTTP/1.1" 200 570
+INFO 2024-12-14 17:40:19,868 basehttp "GET /api/v1/auth/google/callback/?code=4%2F0AanRRrt0cPfD-Ogr7Yqd4KcyLBGych9T0XJKLaJJy1iLUKP12qyZYlagIP7v5-nyyH4JnA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent HTTP/1.1" 200 7554
+INFO 2024-12-14 17:40:19,940 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-12-14 17:40:19,941 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-12-14 17:40:19,946 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-12-14 17:40:19,947 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-12-14 17:40:19,954 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-12-14 17:40:19,955 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-12-14 17:40:19,956 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-12-14 17:40:19,957 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-12-14 17:40:19,958 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-12-14 17:40:19,960 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-12-14 17:40:19,960 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-12-14 17:40:19,967 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2024-12-14 17:40:58,984 basehttp "GET /login/ HTTP/1.1" 302 0
+WARNING 2024-12-14 17:41:03,170 log Not Found: /
+WARNING 2024-12-14 17:41:03,172 basehttp "GET / HTTP/1.1" 404 2947
+INFO 2024-12-14 17:41:08,905 basehttp "GET /apis/questions/ HTTP/1.1" 200 14158
+INFO 2024-12-14 17:41:09,145 basehttp "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+INFO 2024-12-14 17:41:30,486 basehttp "GET /swagger/ HTTP/1.1" 200 2467
+INFO 2024-12-14 17:41:31,554 basehttp "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+INFO 2024-12-14 17:41:31,600 basehttp "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+INFO 2024-12-14 17:41:31,695 basehttp "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+INFO 2024-12-14 17:41:31,700 basehttp "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+INFO 2024-12-14 17:41:31,723 basehttp "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+INFO 2024-12-14 17:41:33,800 basehttp "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+INFO 2024-12-14 17:41:35,827 basehttp "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+INFO 2024-12-14 17:41:36,087 basehttp "GET /swagger/?format=openapi HTTP/1.1" 200 15515
+INFO 2024-12-14 17:42:52,256 basehttp "GET /apis/questions/ HTTP/1.1" 200 800
